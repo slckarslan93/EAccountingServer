@@ -17,8 +17,8 @@ namespace EAccountingServer.WebAPI.Middlewares
                     {
                         UserName = "admin",
                         Email = "admin@admin.com",
-                        FirstName = "Taner",
-                        LastName = "Saydam",
+                        FirstName = "Selçuk",
+                        LastName = "Arslan",
                         EmailConfirmed = true
                     };
 
